@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="img/hellothere.gif" alt="Hello There I'm İlker">
-</p>
+<video autoplay="true" muted>
+      <source src="hellotherevid.mp4" type="video/mp4" />
+      Your browser does not support the video tag.
+</video>
 
 <hr>
 
