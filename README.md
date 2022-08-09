@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/hellotheregif.gif" alt="Hello There I'm İlker">
+  <img src="src/hellotheregif.gif" alt="Hello There I'm İlker">
 </p>
 
 <hr>
